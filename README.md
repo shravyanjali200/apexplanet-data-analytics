@@ -9,8 +9,7 @@ The project covers:
 - Python + SQL Integration
 - Business Insight Generation
 - Data Visualization and Dashboarding (Upcoming)
-
-## Data Cleaning and Exploratory Data Analysis (EDA)
+## Task 1: Data Cleaning and Exploratory Data Analysis (EDA)
 
 ### Objective
 
